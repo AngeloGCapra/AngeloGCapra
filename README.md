@@ -1,50 +1,65 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&weight=300&size=50&duration=4000&pause=1000&color=E71409&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+I'm+Angelo;I'm+23+years+old;I'm+a+Software+Engineer;I'm+from+Brazil;welcome+😎)](https://git.io/typing-svg)
+<div align="center">
+  <img src="./assets/braille-sky.svg" width="100%" alt="Angelo G. Capra (Aka Elfo) — Software Engineer · Hardware"/>
 
-<p align="center"> 
-  <a target="_blank" href="https://www.linkedin.com/in/angelo-gabriel-capra-81b86624a">
-    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white&color=004182"/>
-  </a>
-  <a target="_blank" href="mailto:seu-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <br/>
+
+  <a href="https://www.linkedin.com/in/angelo-gabriel-capra-81b86624a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:angelo.gabriel.capra@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/RS,_Brasil-101a33?style=flat-square&logo=googlemaps&logoColor=8fa6cc" alt="RS, Brasil"/>
+</div>
+
+## Sobre mim
+
+Desenvolvedor, trabalho principalmente com back-end em **Java e Spring Boot**, curto e me interesso por hardware e redes. No meu tempo livre, estou mexendo com **hardware, homelab e self-hosting**.
+
+## Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,ts,nextjs,tailwind,php,html,css,postgres,docker,linux,cloudflare,git,github,idea,vscode&perline=9" alt="Java, Spring, Kotlin, TypeScript, Next.js, Tailwind, PHP, HTML, CSS, PostgreSQL, Docker, Linux, Cloudflare, Git, GitHub, IntelliJ, VS Code"/>
 </p>
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-101a33?style=flat-square&logo=springboot&logoColor=6DB33F)
+![JPA / Hibernate](https://img.shields.io/badge/JPA_/_Hibernate-101a33?style=flat-square&logo=hibernate&logoColor=8fa6cc)
+![JPQL](https://img.shields.io/badge/JPQL-101a33?style=flat-square)
+![Spring Data JDBC](https://img.shields.io/badge/Spring_Data_JDBC-101a33?style=flat-square&logo=spring&logoColor=6DB33F)
+![Flyway](https://img.shields.io/badge/Flyway-101a33?style=flat-square&logo=flyway&logoColor=CC0200)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-101a33?style=flat-square&logo=jetpackcompose&logoColor=4285F4)
+![Coolify](https://img.shields.io/badge/Coolify-101a33?style=flat-square)
+![JSF / PrimeFaces](https://img.shields.io/badge/JSF_/_PrimeFaces-101a33?style=flat-square)
+![JavaFX](https://img.shields.io/badge/JavaFX-101a33?style=flat-square)
+![JasperReports](https://img.shields.io/badge/JasperReports-101a33?style=flat-square)
+![Oracle](https://img.shields.io/badge/Oracle-101a33?style=flat-square&logo=oracle&logoColor=F80000)
+![Firebird](https://img.shields.io/badge/Firebird-101a33?style=flat-square&logo=firebird&logoColor=F40F02)
+![NetBeans](https://img.shields.io/badge/NetBeans-101a33?style=flat-square&logo=apachenetbeanside&logoColor=1B6AC6)
+
+## Projetos pessoais
+
+### 🏠 Home-Maiden &nbsp;<img src="https://img.shields.io/badge/reposit%C3%B3rio_privado-101a33?style=flat-square&logo=github&logoColor=8fa6cc" alt="repositório privado"/> <img src="https://img.shields.io/badge/em_produ%C3%A7%C3%A3o-101a33?style=flat-square" alt="em produção"/>
+
+Sistema de gestão pessoal **self-hosted** para centralizar contas mensais, gastos e, em breve, conhecimento pessoal, wishlist e leituras.
+
+- **Back-end:** Java 21, Spring Boot 4, Spring Data JDBC, Flyway e PostgreSQL
+- **Front-end:** Next.js, TypeScript, Tailwind e shadcn/ui · **App Android:** Kotlin e Jetpack Compose
+- **Segurança:** Argon2id, 2FA (TOTP), JWT com refresh rotativo e códigos de recuperação
+- **Captura automática de gastos:** o celular repassa as notificações dos apps de banco e o servidor classifica o que é compra
+- **Infra:** Docker Compose, CI com deploy por tag, Coolify e túnel Cloudflare — decisões registradas em ADRs
+
+| Outros projetos | Descrição | Stack |
+|---|---|---|
+| [PC-Build](https://github.com/AngeloGCapra/PC-Build) | Plataforma para montagem e recomendação de hardware | Java |
+| [Sistema-Biblioteca](https://github.com/AngeloGCapra/Sistema-Biblioteca) | Sistema de gerenciamento de biblioteca | Java, JSF/PrimeFaces |
+
+## Estatísticas
+
 <div align="center">
-<a href="https://github.com/AngeloGCapra"><img alt="GitHub" src="https://img.shields.io/github/followers/AngeloGCapra?color=181717&logo=github&style=for-the-badge&label=github" /></a>
-  <img src="https://komarev.com/ghpvc/?username=AngeloGCapra&style=for-the-badge&color=181717"/>
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="150" alt="Repositórios por linguagem"/>
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="150" alt="Linguagens com mais commits"/>
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="150" alt="Estatísticas"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=AngeloGCapra&locale=pt_BR&hide_border=true&background=101a33&ring=8fa6cc&fire=f6e7b0&currStreakNum=eef3ff&sideNums=eef3ff&currStreakLabel=8fa6cc&sideLabels=8fa6cc&dates=6b7fa8&stroke=3b5a8c" alt="Sequência de contribuições"/>
 </div>
 
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PrimeFaces-007ACC?style=for-the-badge&logo=primefaces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngeloGCapra&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloGCapra&layout=compact&theme=dark" alt="Top Languages" />
-</div>
-
----
-
-## 🚀 Projetos em Destaque
-
-### [PC-Build](https://github.com/AngeloGCapra/PC-Build)
-Um projeto que ajuda os usuários a construir e otimizar seus PCs para o melhor desempenho. Inclui funcionalidades como seleção de componentes, compatibilidade, e recomendações personalizadas.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AngeloGCapra/AngeloGCapra/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/AngeloGCapra/AngeloGCapra/output/github-snake.svg" alt="Cobrinha percorrendo o gráfico de contribuições" width="100%"/>
+</picture>
