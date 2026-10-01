@@ -3,7 +3,7 @@
 
   <br/>
 
-  <a href="https://www.linkedin.com/in/angelo-gabriel-capra-81b86624a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/angelogcapra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:angelo.gabriel.capra@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/RS,_Brasil-101a33?style=flat-square&logo=googlemaps&logoColor=8fa6cc" alt="RS, Brasil"/>
 </div>
